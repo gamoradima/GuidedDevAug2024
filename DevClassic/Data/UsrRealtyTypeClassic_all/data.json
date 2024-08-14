@@ -16,7 +16,7 @@
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "demo"
         }
       ]
     },
@@ -36,7 +36,7 @@
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "expensive"
         }
       ]
     },
@@ -48,7 +48,7 @@
         },
         {
           "SchemaColumnUId": "49bbf91f-201e-c94a-1a26-ff6c51e87e5b",
-          "Value": ""
+          "Value": "001"
         },
         {
           "SchemaColumnUId": "8ec8519a-8008-cb48-9b79-038cf537824f",
@@ -56,27 +56,7 @@
         },
         {
           "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
-        }
-      ]
-    },
-    {
-      "Row": [
-        {
-          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-          "Value": "cce9110b-1d4a-4a3c-b4cd-3a8873962afd"
-        },
-        {
-          "SchemaColumnUId": "49bbf91f-201e-c94a-1a26-ff6c51e87e5b",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "8ec8519a-8008-cb48-9b79-038cf537824f",
-          "Value": ""
-        },
-        {
-          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-          "Value": ""
+          "Value": "house"
         }
       ]
     }
