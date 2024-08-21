@@ -1,0 +1,49 @@
+= MetaData.Schema.UId "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.A2 "UsrAverageRealtyPriceOutputPage"
+= MetaData.Schema.A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["09d13380-5ba0-e839-0eb2-8c4de07ba379"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["09d13380-5ba0-e839-0eb2-8c4de07ba379"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["3e977072-67fa-588e-d554-1d5c45e71ae9"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["231defdf-a768-e23a-fb30-1af82d65f9f9"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["d6b949fc-ba7c-e706-6a88-0422133b6a4e"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["d6b949fc-ba7c-e706-6a88-0422133b6a4e"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["f978738d-bca4-04fb-a000-defd7acf82c4"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["f978738d-bca4-04fb-a000-defd7acf82c4"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["0011a5bb-3302-742c-a621-c833f2ec8174"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["67995f5e-d70a-e2a3-5494-a22737ff9c44"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["be578da5-5d7d-ab2f-1e20-3e60b2942dd8"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+= MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A4 "29096956-4a24-4cfb-9143-d7593b1f772d"
+= MetaData.Schema.B2.["bdd7993a-a255-b4d6-62d6-fe0785da6821"].A5 "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+~ MetaData.Schema.B2 ["09d13380-5ba0-e839-0eb2-8c4de07ba379","3e977072-67fa-588e-d554-1d5c45e71ae9","231defdf-a768-e23a-fb30-1af82d65f9f9","d6b949fc-ba7c-e706-6a88-0422133b6a4e","f978738d-bca4-04fb-a000-defd7acf82c4","0011a5bb-3302-742c-a621-c833f2ec8174","67995f5e-d70a-e2a3-5494-a22737ff9c44","be578da5-5d7d-ab2f-1e20-3e60b2942dd8","bdd7993a-a255-b4d6-62d6-fe0785da6821"]
+= MetaData.Schema.B6 "89a67f1a-94ea-4932-aeaf-78042720ab17"
+= MetaData.Schema.B8 "8.1.4.2889"
+= MetaData.Schema.HD1 "27e1b215-163a-4b82-b0a6-9872a8dde6e4"
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "1eac81b6-3819-40e3-3bd4-3c042e40b7a1",
+  "A2": "UsrSqlText",
+  "A3": "29096956-4a24-4cfb-9143-d7593b1f772d",
+  "A4": "29096956-4a24-4cfb-9143-d7593b1f772d",
+  "L1": "5ca35f10-a101-4c67-a96a-383da6afacfc",
+  "L8": {},
+  "L11": false
+}
++ MetaData.Schema.HD11 {
+  "BL1": "Terrasoft.Core.ClientUnitSchemaParameter",
+  "UId": "548a3321-90ce-e0d7-b152-6db997cc8c92",
+  "A2": "UsrAvgPrice",
+  "A3": "29096956-4a24-4cfb-9143-d7593b1f772d",
+  "A4": "29096956-4a24-4cfb-9143-d7593b1f772d",
+  "L1": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "L8": {},
+  "L11": false
+}
+~ MetaData.Schema.HD11 ["1eac81b6-3819-40e3-3bd4-3c042e40b7a1","548a3321-90ce-e0d7-b152-6db997cc8c92"]
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false
