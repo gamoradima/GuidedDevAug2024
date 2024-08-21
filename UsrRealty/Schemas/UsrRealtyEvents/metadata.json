@@ -6,7 +6,15 @@
       "A2": "UsrRealtyEvents",
       "A5": "be16fcdc-3ecc-45bc-9530-a500c02bdbba",
       "B1": [],
-      "B2": [],
+      "B2": [
+        {
+          "UId": "d0e215af-74ae-9ca9-dc29-9ea247d06ff1",
+          "A2": "ValueIsTooBig",
+          "A3": "f3459583-073b-4191-ab8c-0d172073cee1",
+          "A4": "f3459583-073b-4191-ab8c-0d172073cee1",
+          "A5": "be16fcdc-3ecc-45bc-9530-a500c02bdbba"
+        }
+      ],
       "B3": [],
       "B6": "89a67f1a-94ea-4932-aeaf-78042720ab17",
       "B8": "8.1.4.2889",
