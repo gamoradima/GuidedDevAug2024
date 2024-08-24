@@ -19,6 +19,7 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_dzoi2ue_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_p8ffxf2_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.MenuItem_55k949r_caption.Value" Value="Calculate average price process" />
+			<Item Name="LocalizableStrings.MenuItem_gtxz48o_caption.Value" Value="Call web service to calculate max price" />
 			<Item Name="LocalizableStrings.NumberInput_1dan7ea_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 USD" />
 		</Items>
